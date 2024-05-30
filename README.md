@@ -40,8 +40,8 @@ With these core components, Dhanvantri seamlessly combines OCR technology, web s
    - Observe how Dhanvantri accurately identifies the drug name.
 2. **Changing the Language Setting:**
    - See how Dhanvantri adapts its responses to the selected language.
-3. **Manual Entry of the Drug Name:**
-   - Demonstrate how to manually enter the drug name if the image upload is not feasible.
+3. **Results:**
+   - This is how the Results we get.
 
 ## 📚 Conclusion
 Dhanvantri is a powerful Telegram bot that combines advanced image recognition, web scraping, and language translation to provide a holistic drug management solution. It simplifies drug identification, breaks language barriers, and ensures users stay on top of their medication schedules.
@@ -50,17 +50,11 @@ Thank you for joining me on this journey through Dhanvantri. If you have any que
 
 ---
 
-## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🤝 Contributing
-
-Contributions are welcome! Please read the [CONTRIBUTING](CONTRIBUTING.md) guidelines for more information.
 
 ## 📞 Contact
 
-If you have any questions or feedback, feel free to reach out to me at [email@example.com](mailto:email@example.com).
+If you have any questions or feedback, feel free to reach out to me at [druvasadvikkumar@gmail.com](mailto:druvasadvikkumar@gmail.com).
 
 ---
 
