@@ -7,7 +7,7 @@ Dhanvantri is a Telegram bot designed to streamline the process of identifying d
 ## 🚀 Key Features
 
 ### 🔍 Drug Identification
-Dhanvantri allows users to upload images of drug packaging. It employs Optical Character Recognition (OCR) technology to extract the drug's name from these images. It then searches for detailed drug information on [apollopharmacy.in](https://www.apollopharmacy.in).
+Dhanvantri allows users to upload images of drug packaging. It employs Optical Character Recognition (OCR) technology to extract the drug's name from these images. It then searches for detailed drug information in database.
 
 ### 🌐 Language Translation
 The bot supports multiple languages, and users can select their preferred language for responses. This feature is incredibly useful for users who are more comfortable in languages other than English.
